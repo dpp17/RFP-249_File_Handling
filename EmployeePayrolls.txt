@@ -1,0 +1,38 @@
+Full_Time Employees Present :: 20
+EmployementWage for a Full_Timer For Today :: 3200
+Full_Time Employees Present :: 90
+EmployementWage for a Full_Timer For Today :: 7560
+Full_Time Employees Present :: 118
+EmployementWage for a Full_Timer For Today :: 15340
+Full_Time Employees Present :: 41
+EmployementWage for a Full_Timer For Today :: 3321
+Full_Time Employees Present :: 76
+EmployementWage for a Full_Timer For Today :: 8512
+ *****   RELIANCE   ***** 
+Full_Time Employees Present :: 88
+EmployementWage for a Full_Timer For Today :: 7392
+ *****   Walmart   ***** 
+Full_Time Employees Present :: 66
+EmployementWage for a Full_Timer For Today :: 8580
+ *****   UnitedHealthGroups   ***** 
+Full_Time Employees Present :: 21
+EmployementWage for a Full_Timer For Today :: 1701
+ *****   ZS Associates   ***** 
+Full_Time Employees Present :: 44
+EmployementWage for a Full_Timer For Today :: 4928
+
+ *****   RELIANCE   ***** 
+Full_Time Employees Present :: 81
+EmployementWage for a Full_Timer For Today :: 6804
+
+ *****   Walmart   ***** 
+Full_Time Employees Present :: 116
+EmployementWage for a Full_Timer For Today :: 15080
+
+ *****   UnitedHealthGroups   ***** 
+Full_Time Employees Present :: 74
+EmployementWage for a Full_Timer For Today :: 5994
+
+ *****   ZS Associates   ***** 
+Full_Time Employees Present :: 81
+EmployementWage for a Full_Timer For Today :: 9072
